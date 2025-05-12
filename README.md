@@ -4,7 +4,7 @@
 <table style="width:100%">
   <tr>
     <td style="text-align: center;">
-      <img src="杜邦线连线图.png" width="300">
+      <img src="杜邦线连线图.png" width="800">
     </td>
   </tr>
 </table>
